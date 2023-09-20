@@ -1,0 +1,9 @@
+GoogleService-Info.plist
+secrets.plist
+tripper-ios.xcodeproj
+
+## App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.plist
