@@ -6,6 +6,8 @@ Tripper is an iOS AI travel planner app. It provides users with a list of photos
 
 ### Demo video
 
+https://github.com/acyang97/tripper/assets/59875458/472ae9e8-0ba4-4bfe-b94f-19c5778806cd
+
 ### Get suggestions
 
 <p align="center">
@@ -17,6 +19,7 @@ Tripper is an iOS AI travel planner app. It provides users with a list of photos
 <p align="center">
   <img alt="readme-2" src="./tripper-ios/Assets.xcassets/readme/readme-2.imageset/readme-2.png">
 </p>
+
 ### View past generated suggestions
 
 <p align="center">
